@@ -1,0 +1,119 @@
+body{
+  background-color: #33ffac;
+  margin-left: 30px;
+  margin-right: 30px;
+  
+}
+
+#titulo{
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  font-family: verdana;
+  letter-spacing: 8px;
+  font-weight: bold;
+  text-shadow: black 5px -5px 2px;
+  
+}
+
+#caja1{
+  text-align: justify;
+  width: 800px;
+  position: relative;
+  left: 220px;
+  border-left: 4px solid #ea576d;
+  border-right: 4px solid #ea576d;
+  
+}
+
+p{
+  position: relative;
+  margin-left: 20px;
+  margin-right: 20px;
+  
+}
+
+#negrita, #negrita2, #negrita3{
+  font-weight: bold;
+}
+
+hr{
+  clear: both;
+  width: 600px;
+  color: #ea576d;
+  border: 2px solid #ea576d;
+}
+
+#gandhi{
+ float: left;
+  width: 150px;
+  margin-right: 20px;
+}
+
+#titulo2, #titulo3{
+  font-size: 22px;
+  font-weight: bold;
+  font-family: courier;
+}
+#india{
+  float: right;
+  width: 70px;
+  position: relative;
+  bottom: 90px;
+  
+  margin-left: 10px;
+ 
+  
+  
+}
+
+#parg2{
+  width: 1110px;
+  text-align: justify;
+  
+}
+
+#usa{
+  float: left;
+  position: relative;
+  left: 20px;
+  width: 60px;
+  margin-right: 30px;
+}
+
+#king{
+  float: right;
+  position: relative;
+  bottom: 175px;
+  right: 40px;
+  width: 130px;
+}
+
+#park1{
+  width: 1000px;
+  text-align: justify;
+  
+}
+#park2{
+  width: 999px;
+  text-align: justify;
+ 
+}
+
+#barra3{
+  position: relative;
+  bottom: 100px;
+  clear: both;
+  width: 1150px;
+  color: #ea576d;
+  border: 2px solid #ea576d;
+  
+}
+
+#footer{
+  text-align: left;
+  position: relative;
+  bottom: 50px;
+  font-size: 10px;
+  
+}
