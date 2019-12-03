@@ -1,5 +1,5 @@
 body{
-  background-color: #33ffac;
+  background-color: #a1e7be;
   margin-left: 30px;
   margin-right: 30px;
   
@@ -12,7 +12,7 @@ body{
   font-family: verdana;
   letter-spacing: 8px;
   font-weight: bold;
-  text-shadow: black 5px -5px 2px;
+  text-shadow: gray 6px -6px 3px;
   
 }
 
@@ -21,8 +21,8 @@ body{
   width: 800px;
   position: relative;
   left: 220px;
-  border-left: 4px solid #ea576d;
-  border-right: 4px solid #ea576d;
+  border-left: 4px solid #b85237;
+  border-right: 4px solid #b85237;
   
 }
 
@@ -41,12 +41,12 @@ hr{
   clear: both;
   width: 600px;
   color: #ea576d;
-  border: 2px solid #ea576d;
+  border: 2px solid #b85237;
 }
 
 #gandhi{
  float: left;
-  width: 150px;
+  width: 160px;
   margin-right: 20px;
 }
 
@@ -59,7 +59,7 @@ hr{
   float: right;
   width: 70px;
   position: relative;
-  bottom: 90px;
+  bottom: 105px;
   
   margin-left: 10px;
  
@@ -68,8 +68,10 @@ hr{
 }
 
 #parg2{
-  width: 1110px;
+  width: 1100px;
   text-align: justify;
+  position: relative;
+  right: 10px;
   
 }
 
@@ -106,7 +108,7 @@ hr{
   clear: both;
   width: 1150px;
   color: #ea576d;
-  border: 2px solid #ea576d;
+  border: 2px solid #b85237;
   
 }
 
@@ -116,4 +118,21 @@ hr{
   bottom: 50px;
   font-size: 10px;
   
+}
+
+#sub1, #sub2, #sub3{
+  color: red;
+  border-bottom: 3px solid red;
+}
+
+#azul, #azul2{
+  color: blue;
+}
+
+#bordes, #bordes2{
+  border: 1px solid black;
+}
+
+#tab1, #tab2, #negrita2, #tab4, #tab5, #tab6, #negrita3, #tab8, #tab9{
+	margin-left: 30px;
 }
